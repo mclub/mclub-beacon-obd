@@ -8,5 +8,5 @@ A cheap ELM327-like OBD connector, with following mods:
 
 Firmwares
 ==================
-* 0.0.1
-* 0.0.2
+* 0.0.0 - Expose basic parameters: RPM/Speed/Fuel/Coolant/Load
+* 0.0.1 - Power saving when car is power off
